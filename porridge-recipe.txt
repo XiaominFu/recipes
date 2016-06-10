@@ -1,0 +1,7 @@
+Ingredients:
+ - Rice
+ - Water
+
+Directions:
+ 1. Cook rice with lots of water.
+ 2. Done!
